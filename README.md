@@ -9,6 +9,7 @@ Kullanım Kılavuzu; temizlemek istediğiniz propların world idlerini almanız 
 - 6-) Lua dosyasını sunucunuzda lua/autorun/server konumuna atın bu kadar
 
 örnek
+
 `
 local maps = {
 	rp_southside = {
